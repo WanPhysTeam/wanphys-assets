@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "package": "gaussian_plant",
+  "source": {
+    "repository": "https://github.com/nv-tlabs/VoMP",
+    "revision": "ac6826f25ca5cfa122eb7bacb74be91b5a9eadf4",
+    "path": "gradio/examples/plant.ply",
+    "local_source": "demo_assets/vomp_plant.ply",
+    "byte_form": "PLY bytes preserved; source-code license saved as text with a final newline"
+  },
+  "release_status": "review_pending",
+  "files": [
+    {
+      "file": "LICENSE.source-code.txt",
+      "bytes": 11356,
+      "sha256": "7382b1cf711e7a7c7af9816e0e07b49b91e7149b7c6d347225f98800fcb1f1c2"
+    },
+    {
+      "file": "plant.ply",
+      "bytes": 12734620,
+      "sha256": "3a659f85e78556a90cddb2f37fcf77e9bd452fda15de6f69f6db8c5803bf9fd5"
+    }
+  ]
+}

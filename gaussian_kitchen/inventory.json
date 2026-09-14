@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "gaussian_kitchen",
+  "source": {
+    "repository": "https://github.com/graphdeco-inria/gray",
+    "revision": null,
+    "local_source": "demo_assets/gray_kitchen/kitchen/gray_kitchen_15000.ply",
+    "byte_form": "Runtime PLY bytes preserved without transformation"
+  },
+  "release_status": "review_pending",
+  "files": [
+    {
+      "file": "kitchen.ply",
+      "bytes": 307600338,
+      "sha256": "af4ba2596720f99a1197f6aa50a9f1df5acaf6b20ebbd4b128755c34a3927d06"
+    }
+  ]
+}

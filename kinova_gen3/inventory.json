@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "package": "kinova_gen3",
+  "source": {
+    "repository": "https://github.com/Kinovarobotics/ros2_kortex",
+    "documented_tag": "0.2.6",
+    "comparison_checkout": "c50057a02fb64e854b2759261994f43173bec703",
+    "local_source": "demo_assets/kinova_gen3_0_2_6",
+    "license_source": "demo_assets/ros2_kortex/LICENSE",
+    "byte_form": "Cached mesh and license bytes preserved; mesh text matches comparison checkout after LF normalization"
+  },
+  "release_status": "review_pending",
+  "files": [
+    {
+      "file": "LICENSE",
+      "bytes": 3366,
+      "sha256": "6c04bb892e40947d8955f0489196588098c071863a9f0efbe52b175586eb88f4"
+    },
+    {
+      "file": "meshes/base_link.dae",
+      "bytes": 245336,
+      "sha256": "21921d5d1b55736872220d6a689514b8b483ec82045e211e13ac054cb3d1b4d9"
+    },
+    {
+      "file": "meshes/bracelet_no_vision_link.dae",
+      "bytes": 1464233,
+      "sha256": "2e1cc31015cf2a38fbee929767c851d45225bec6f23813b983c0c40f51be438a"
+    },
+    {
+      "file": "meshes/forearm_link.dae",
+      "bytes": 556623,
+      "sha256": "ad293e902a36c9bde1461f05186af5a6c4290bb02108cb00c3e2c88bb315792c"
+    },
+    {
+      "file": "meshes/half_arm_1_link.dae",
+      "bytes": 620194,
+      "sha256": "0a81b11e92608767f0792c3ebec16985d9dcd12ce98d7d0234755c42e12377c6"
+    },
+    {
+      "file": "meshes/half_arm_2_link.dae",
+      "bytes": 527028,
+      "sha256": "1a09150d3cad40d38892a5a715bacd1a6dda4102f0c464ed5a0780247763d39b"
+    },
+    {
+      "file": "meshes/shoulder_link.dae",
+      "bytes": 465122,
+      "sha256": "a5dbac7ecb5a02517dd940def2fb6d51376753ed32978ca9b1c9c8f1d9325538"
+    },
+    {
+      "file": "meshes/spherical_wrist_1_link.dae",
+      "bytes": 632350,
+      "sha256": "bdcfc7e5415bdf83dd50f164101abeb90cdccf0a517adfa7c6411dc0124b4a98"
+    },
+    {
+      "file": "meshes/spherical_wrist_2_link.dae",
+      "bytes": 580707,
+      "sha256": "773099a6940d27267f1bbd31884bdd2dddb78a79a587dfb22a74e81db763bc9a"
+    }
+  ]
+}

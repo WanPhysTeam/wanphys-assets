@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "package": "gaussian_coast_cliff02",
+  "source": {
+    "urls": [
+      "https://polyhaven.com/a/coastal_cliff_02",
+      "https://polyhaven.com/a/aristea_wreck"
+    ],
+    "revision": null,
+    "local_source": "demo_assets/gaussian_coast_cliff02",
+    "byte_form": "All four runtime inputs preserved without transformation"
+  },
+  "release_status": "review_pending",
+  "files": [
+    {
+      "file": "coast.json",
+      "bytes": 88856,
+      "sha256": "53f40daa66aca5086f331e1b3374734e2220c3a41f6ce2abcb7b25114fbb6587"
+    },
+    {
+      "file": "coast.ply",
+      "bytes": 65280625,
+      "sha256": "c260ecc2d55e6ec035275a138c1ae8e96917435888e808a30e64269b92bbf643"
+    },
+    {
+      "file": "collision_mesh.npz",
+      "bytes": 9118700,
+      "sha256": "e001afdbe1fa000a6dda1e943c0faeb4aaedbbd6cb3ee1bc42d66c34d38d2c8d"
+    },
+    {
+      "file": "environment.npz",
+      "bytes": 2803359,
+      "sha256": "943022241c9255fbde10e33db51094bd0b5553104f26bc0cd759b47c14dcb210"
+    }
+  ]
+}

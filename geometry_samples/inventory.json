@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "package": "geometry_samples",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/_src/geometry/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "files": [
+    {
+      "file": "mesh_to_points_input.obj",
+      "bytes": 205917,
+      "sha256": "e4bfe098950c61c42190fefe8f23ad7b469da8d5d488c8f8e28a0e0b00c4c88c"
+    }
+  ]
+}

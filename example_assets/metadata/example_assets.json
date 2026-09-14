@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "source_root": "newton/examples/assets",
+  "assets": {
+    "axis_cube.usda": {
+      "bytes": 252838,
+      "sha256": "9bf0c535b7aca9854c6625d8010c7675770f1c03ef33f42795120442190fbf4b",
+      "source_commit": "3ef0b5ee"
+    },
+    "bunny.usd": {
+      "bytes": 579563,
+      "sha256": "bf8557a5481f3885e65b75d600a78c43a8f40f352e917a2ff0839dd3fe1edab9",
+      "source_commit": "a1ddfe5c"
+    },
+    "cartpole.usda": {
+      "bytes": 4293,
+      "sha256": "7adba940896ab36fb084e0c3a74314f3b06363acd4262b116239cbe1cfae7c44",
+      "source_commit": "a1530baa"
+    },
+    "curvedSurface.usd": {
+      "bytes": 2650,
+      "sha256": "6b9dc9362eaf3a4f2be66e201be53d1f8f4c8ddf70c1b5ceec92166bc499fc72",
+      "source_commit": "e5537da7"
+    },
+    "nv_humanoid.xml": {
+      "bytes": 12169,
+      "sha256": "3eba1b6a810d90ea1579d51ce42fb09b74e645610cb4ad96dee299a82b76d730",
+      "source_commit": "9c86b2aa"
+    },
+    "sensor_contact_scene.usda": {
+      "bytes": 3987,
+      "sha256": "d0c5b9b91c2383a72d25fc0a8fc0e61873bad4425d283d0677e2c526b401a299",
+      "source_commit": "9c86b2aa"
+    }
+  }
+}
