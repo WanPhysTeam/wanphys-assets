@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "unisex_shirt",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "unisex_shirt.usd",
+      "bytes": 143351,
+      "sha256": "9eb7f161154ce8d3f00253650e78a97d022ebe99b5017656ee965a536d5e64c5"
+    }
+  ]
+}

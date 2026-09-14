@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "package": "koifish",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "koifish.usda",
+      "bytes": 156297,
+      "sha256": "cd1a45538084617b61e6ccef5db04ffb46c895c6509a5d25f5e7777169e8011d"
+    },
+    {
+      "file": "koifish_with_joints.usda",
+      "bytes": 159381,
+      "sha256": "e7beb3bf7f8ae7757ca31d0eae852ba02f959c6451363aeabf162428e1230014"
+    }
+  ]
+}

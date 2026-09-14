@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "soft_sphere",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "Sphere_low.msh",
+      "bytes": 42861,
+      "sha256": "a945ffb21fed38499fc125efd92824ab26726bd682c2f3d089b81f78c8e9d5d3"
+    }
+  ]
+}

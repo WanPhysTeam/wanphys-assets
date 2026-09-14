@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "corals",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "corals.usda",
+      "bytes": 70788514,
+      "sha256": "ae0f3f67be7a40daa7fef2e978e35d918e40aed4f7fef4d8cc6fd543c188a831"
+    }
+  ]
+}

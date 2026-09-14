@@ -37,9 +37,10 @@
 *.onnx filter=lfs diff=lfs merge=lfs -text
 
 # Preserve byte-verified input manifests and copied license snapshots.
-example_assets/**/*.xml -text
-example_assets/**/*.urdf -text
-example_assets/metadata/example_assets.json -text
+ant/nv_ant.xml -text
+humanoid/nv_humanoid.xml -text
+quadruped/quadruped.urdf -text
+asset_metadata/example_assets.json -text
 gaussian_coast_cliff02/coast.json -text
 gaussian_plant/LICENSE.source-code.txt -text
 kinova_gen3/LICENSE -text

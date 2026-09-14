@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "package": "bunny",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "bunny.ply",
+      "bytes": 792268,
+      "sha256": "ef554567af418d1b4f93e34d7372969793550db2a116104086709910b48a3ff4"
+    },
+    {
+      "file": "bunny.png",
+      "bytes": 357308,
+      "sha256": "30ecdc35a35c9be1cce9321b7152d384ae2d6a4e971d61cb17a4081bfba90675"
+    },
+    {
+      "file": "bunny.usd",
+      "bytes": 579563,
+      "sha256": "bf8557a5481f3885e65b75d600a78c43a8f40f352e917a2ff0839dd3fe1edab9"
+    },
+    {
+      "file": "bunny.usda",
+      "bytes": 10880426,
+      "sha256": "d8076c6a851e037cf4c3f218d8b79016622863c859829e1b953134d7292feecb"
+    }
+  ]
+}

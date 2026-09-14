@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "axis_cube",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "axis_cube.usda",
+      "bytes": 252798,
+      "sha256": "92063cf0195d86cea6d10dddc410820ae30f275a7e370aac4d047b0f298d9a4d"
+    }
+  ]
+}

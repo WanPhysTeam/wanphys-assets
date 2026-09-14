@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "soft_cube",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "cube_low.msh",
+      "bytes": 639,
+      "sha256": "f8699e7b24d70fd6536f9c6d382e93622292437e53bcc9e57d74b4bc933cb6f8"
+    }
+  ]
+}

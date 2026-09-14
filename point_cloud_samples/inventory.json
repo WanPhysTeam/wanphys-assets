@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "package": "point_cloud_samples",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "simple_cloud.ply",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "simple_test_cloud.ply",
+      "bytes": 159,
+      "sha256": "eed82dbe92242f041e59694520c72e65c06152ed9638edee70710411c01fe1b1"
+    },
+    {
+      "file": "test_cloud.ply",
+      "bytes": 70895,
+      "sha256": "0771b2edb4cebb702c6b193d7b821fe06bb6b62b83fce9b87e0395a152199a8d"
+    },
+    {
+      "file": "test_cloud_new.ply",
+      "bytes": 205,
+      "sha256": "1b2b8a40617bf2e8e63215de9fc762adee3406f3868d6ff382a52bdaee3cb1fd"
+    },
+    {
+      "file": "test_mesh.ply",
+      "bytes": 311,
+      "sha256": "a74c722cfb581c2c1065d4e27892fdf447ad05359430e9f3eefcbd8662911d6d"
+    }
+  ]
+}

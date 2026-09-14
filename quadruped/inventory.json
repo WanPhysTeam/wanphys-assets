@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "quadruped",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "quadruped.urdf",
+      "bytes": 10013,
+      "sha256": "8c7683a7a9c810dd6f1167d41ded1925ffd9ad496324a774c4ed0f972ed5fb72"
+    }
+  ]
+}

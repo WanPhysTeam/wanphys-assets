@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "cartpole",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "cartpole.usda",
+      "bytes": 4144,
+      "sha256": "34fafa2dcf73f4357b857f00f6a530f9e26dbfe3a645d2f5eb0de6a169fce7a6"
+    }
+  ]
+}

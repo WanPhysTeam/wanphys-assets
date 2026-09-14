@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "ant",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "nv_ant.xml",
+      "bytes": 5315,
+      "sha256": "17d6640fb01f30587d0ffdc5e3fc3069a130fc64ea33239475cde8a5c1b4367e"
+    }
+  ]
+}

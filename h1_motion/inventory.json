@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "h1_motion",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "h1_motion.npz",
+      "bytes": 399585,
+      "sha256": "f3cf8033c39f8f54610e560ac14d2e221a80a099fa031051caf82ceacfdf773b"
+    }
+  ]
+}

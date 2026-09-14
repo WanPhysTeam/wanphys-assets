@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "watermill",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "watermill.usdc",
+      "bytes": 480333,
+      "sha256": "8dfcb087caef429b92a9caf1d9e0032993d3f063b37859364b325e3931c16cca"
+    }
+  ]
+}

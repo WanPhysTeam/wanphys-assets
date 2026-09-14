@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "dragon",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "dragon.usda",
+      "bytes": 2104916,
+      "sha256": "3d46363d63b295d0b98d453bf6fd241ee7a37d099afe58a2923de60aa24d3f8e"
+    }
+  ]
+}

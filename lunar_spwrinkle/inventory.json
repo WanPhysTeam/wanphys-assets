@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "lunar_spwrinkle",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "lunar_dtm_spwrinkle1_1.TIF",
+      "bytes": 5571782,
+      "sha256": "4b525e4f5eaed7868b428c475b97aff25e4fb081b3a756495635de40d55b651f"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "humanoid",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "nv_humanoid.xml",
+      "bytes": 11986,
+      "sha256": "35a8320fa79bbaa28e584078404f7bf1307d4fb81e5f4e63cec99fa86340d366"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "asset_metadata",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "example_assets.json",
+      "bytes": 1157,
+      "sha256": "c68ca1204d2e3fd3412289155feaff6dd7b0710ee75660ef86f6d041bee2fc77"
+    }
+  ]
+}

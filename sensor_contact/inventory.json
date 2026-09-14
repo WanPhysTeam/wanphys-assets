@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "sensor_contact",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "sensor_contact_scene.usda",
+      "bytes": 3861,
+      "sha256": "e779493beefea525fb5067dcea1ac18572b145a3297236b2ac7d4cb527bf294e"
+    }
+  ]
+}

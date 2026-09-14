@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "package": "lunar_rumker",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "cc12e3a5",
+    "path": "wanphys/assets",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "lunar_dtm_rumkerdom10_1.TIF",
+      "bytes": 18704602,
+      "sha256": "32ed0660f446a9d1a63521f3df3e0610de087b027ea63da7452c5da373f7e737"
+    }
+  ]
+}
