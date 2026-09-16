@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "package": "new_largecity",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "70073a41",
+    "path": "wanphys/assets/new_largecity",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "LowPoly_City_01Ready.obj",
+      "bytes": 278622766,
+      "sha256": "677f83b8458b09d541c96e82a344ffd03eeef719086e8d758e20ee3c83072b48"
+    },
+    {
+      "file": "LowPoly_City_01Ready.mtl",
+      "bytes": 459,
+      "sha256": "9c440708fec75b1abbadd38ba9773fc6f2e4b561d408fe4cf42c22828ff1b4fa"
+    },
+    {
+      "file": "textures/palette.jpg",
+      "bytes": 99997,
+      "sha256": "ba9db57206883d9ead7aede44549f87a331e88514c2308fb4e36dd78e79d25cf"
+    }
+  ]
+}
