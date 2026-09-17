@@ -33,7 +33,7 @@ WanPhys 的独立运行资产仓库。完整的机器人、模型或场景各自
 | [`unisex_shirt/`](unisex_shirt/README.md) | unisex shirt 布料网格；1 个输入 |
 | [`watermill/`](watermill/README.md) | 水轮 USD 模型；1 个输入 |
 
-另外五个包保持原内容和布局：
+另外若干包保持原内容和布局，或新增独立场景包：
 
 | 包 | 内容 |
 | --- | --- |
@@ -42,6 +42,8 @@ WanPhys 的独立运行资产仓库。完整的机器人、模型或场景各自
 | [`gaussian_kitchen/`](gaussian_kitchen/README.md) | GRay 厨房转换结果 `kitchen.ply` |
 | [`gaussian_coast_cliff02/`](gaussian_coast_cliff02/README.md) | 海岸清单、Gaussian PLY、环境光和碰撞审计网格 |
 | [`kinova_gen3/`](kinova_gen3/README.md) | 8 个 Gen3 DAE 网格位于 `meshes/`，附上游 LICENSE |
+| [`new_largecity/`](new_largecity/README.md) | 城市洪水示例 OBJ/MTL 与调色板贴图；3 个输入 |
+| [`skybox/`](skybox/README.md) | 天空盒 JPEG；3 个输入 |
 
 每个包提供自己的 README 和 `inventory.json`。清单只登记本包实际输入的大小和 SHA-256，不把历史来源清单当成当前完整性证明。若模型原来就存在缺失依赖或无效文件，包内 README 会继续说明；按模型拆包不是修复这些内容。
 

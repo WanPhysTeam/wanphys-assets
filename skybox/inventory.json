@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "package": "skybox",
+  "source": {
+    "repository": "https://github.com/WanPhysTeam/WanPhys",
+    "revision": "70073a41",
+    "path": "wanphys/assets/skybox",
+    "byte_form": "Windows working-tree bytes, preserved without transformation"
+  },
+  "licensing": "Per-file upstream rights require review; see README.md. This inventory grants no license.",
+  "files": [
+    {
+      "file": "clear_sky.jpg",
+      "bytes": 30525,
+      "sha256": "19302112d12a27eaf9d5ca3c13914ca4559fd6ddc96636ef150c6d877804ab0f"
+    },
+    {
+      "file": "cloudy_sky.jpg",
+      "bytes": 520354,
+      "sha256": "259e84e4248159eee7fd66b7a1dc11cdb0ddf977409ecb9194d3f96fa0a211ec"
+    },
+    {
+      "file": "sky2.jpg",
+      "bytes": 83363,
+      "sha256": "00124a1f0a16b6769ba838e08af22e1e097efc63903b72eae760ad4c994474c4"
+    }
+  ]
+}
